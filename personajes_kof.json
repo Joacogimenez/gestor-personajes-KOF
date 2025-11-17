@@ -1,0 +1,47 @@
+{
+    "K001": {
+        "nombre": "Kyo Kusanagi",
+        "nacionalidad": "Japón",
+        "estilo": "Kusanagi style",
+        "edad": 20,
+        "peso": 75,
+        "altura": 180,
+        "fuerza": 88
+    },
+    "K002": {
+        "nombre": "Terry Bogard",
+        "nacionalidad": "EEUU",
+        "estilo": "Karate",
+        "edad": 24,
+        "peso": 82,
+        "altura": 182,
+        "fuerza": 90
+    },
+    "K004": {
+        "nombre": "Ramón",
+        "nacionalidad": "México",
+        "estilo": "Lucha Libre",
+        "edad": 25,
+        "peso": 80,
+        "altura": 170,
+        "fuerza": 86
+    },
+    "K005": {
+        "nombre": "Chin Gentsai",
+        "nacionalidad": "China",
+        "estilo": "Kung-fu",
+        "edad": 70,
+        "peso": 68,
+        "altura": 168,
+        "fuerza": 78
+    },
+    "K006": {
+        "nombre": "Lautaro",
+        "nacionalidad": "Argentina",
+        "estilo": "Karate",
+        "edad": 25,
+        "peso": 78,
+        "altura": 173,
+        "fuerza": 80
+    }
+}
